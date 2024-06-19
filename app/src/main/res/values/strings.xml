@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirestoreApplication</string>
+    <string name="input_name">Ingrese su Nombre</string>
+    <string name="input_email">Ingrese su Email</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_read">Leer</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="button_update">Actualizar</string>
+</resources>
